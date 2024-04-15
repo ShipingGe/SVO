@@ -7,6 +7,8 @@ Therefore, accurately reordering videos within a collection based on their conte
 In this work, we curate a dedicated multimodal dataset for this Short Video Ordering (SVO) task and present the performance of some benchmark methods on the dataset. 
 In addition, we further propose an advanced SVO framework with the aid of position decoding and successor prediction. Extensive experiments demonstrate that our method achieves the best performance on our open SVO dataset, and each component of the framework contributes to the final performance. 
 
+<img src="Figure/svo.pdf" width="60%" alt="svo">
+
 ## Dataset
 TBD.
 
