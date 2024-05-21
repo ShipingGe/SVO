@@ -1,4 +1,6 @@
 # SVO
+Official Repository for the SIGIR 2024 paper: Position Decoding and Successor Prediction for Short Video Ordering.
+The code and the dataset will be released soon after the paper is published officially.
 
 ## About
 **Short video collection** is an easy way for users to consume coherent content on various online short video platforms, such as TikTok, YouTube, Douyin, and WeChat Channel. 
@@ -12,7 +14,7 @@ In addition, we further propose an advanced SVO framework with the aid of positi
 </div>
 
 ## Dataset
-The code and the dataset will be released soon after the paper is published officially.
+TBD.
 
 ## License
 <p xmlns:cc="http://creativecommons.org/ns#" ><a rel="cc:attributionURL" href="https://github.com/ShipingGe/SVO">This work</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
