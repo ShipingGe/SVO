@@ -1,5 +1,6 @@
 # SVO
-Official Repository for the SIGIR 2024 paper: Position Decoding and Successor Prediction for Short Video Ordering.
+Official Repository for the SIGIR 2024 paper: Short Video Ordering via Position Decoding and Successor Prediction.
+
 The code and the dataset will be released soon after the paper is published officially.
 
 ## About
