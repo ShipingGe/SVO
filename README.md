@@ -2,6 +2,7 @@
 Official Repository for the SIGIR 2024 paper: Short Video Ordering via Position Decoding and Successor Prediction.
 
 The code and the dataset will be released soon after the paper is published officially.
+2024.7.15: The code has been released.
 
 ## About
 **Short video collection** is an easy way for users to consume coherent content on various online short video platforms, such as TikTok, YouTube, Douyin, and WeChat Channel. 
