@@ -2,6 +2,7 @@
 Official Repository for the SIGIR 2024 paper: Short Video Ordering via Position Decoding and Successor Prediction.
 
 The code and the dataset will be released soon after the paper is published officially.
+
 2024.7.15: The code has been released.
 
 ## About
